@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in Ocean Engineering & B.S. in Mathematics (Dual Degree), Shanghai Jiao Tong University, 2016(expected)
+* B.S. in Ocean Engineering & B.S. in Mathematics (Dual Degree), Shanghai Jiao Tong University, 2026(expected)
 
 Work experience
 ======
